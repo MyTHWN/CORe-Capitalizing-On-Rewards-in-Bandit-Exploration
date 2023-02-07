@@ -1,6 +1,6 @@
-# CORe-Capitalizing-On-Rewards-in-Bandit-Exploration
+# CORe: Capitalizing On Rewards in Bandit Exploration
 
-Demonstration codes of the paper "[CORe: Capitalizing On Rewards in Bandit Exploration](https://proceedings.mlr.press/v161/wang21c)", which is accepted to UAI'21.
+Demonstration codes of the paper "[CORe: Capitalizing On Rewards in Bandit Exploration](https://proceedings.mlr.press/v161/wang21c)", which is accepted by UAI'21.
 
 We apply CORe to both multi-armed bandit and linear bandit settings and compare it with several popular baselines. 
 
